@@ -33,7 +33,7 @@ Comments for each stage
 
 🟥 Stage 1
 
-Name/Alias:
+Name/Alias: Elapse
 Github account:
 Published webpage for stage 1:
 ... comments to be added here
