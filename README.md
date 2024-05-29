@@ -33,9 +33,9 @@ Comments for each stage
 
 🟥 Stage 1
 
-Name/Alias: Elapse
+Name/Alias: Cona Cheng
 
-Github account:
+Github account: https://github.com/Cona0131
 
 Published webpage for stage 1: 
 
