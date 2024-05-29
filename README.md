@@ -37,7 +37,7 @@ Name/Alias: Cona Cheng
 
 Github account: https://github.com/Cona0131
 
-Published webpage for stage 1: 
+Published webpage for stage 1: https://cona0131.github.io/exquisite-corpse-stage-one--elapse-/
 
 Time is very vague to me, just like this artwork I made. I use flowers (plants) and sand, two classic natural symbols. The rapid change makes the picture blurry. The yellow filter gives a trace of time. The dots in the background are pixels from the flower and sand pictures. They are increasing rapidly and also decreasing rapidly. It fits my feeling that time is both superimposed and passing, that contradictory and illusory feeling.
 
